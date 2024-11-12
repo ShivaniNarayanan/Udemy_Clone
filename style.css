@@ -302,5 +302,7 @@ body{
     .navbar__s4{
         display: block0;
     }
-    
+    .sale-image__offer{
+        display: none;
+    }
 }
